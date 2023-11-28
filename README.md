@@ -1,4 +1,10 @@
-[whales.txt](https://github.com/splwhales/splwhales/files/13493436/whales.txt)SPL Whales supply
+Ticker
+{"p":"spl-20","op":"mint","tick":"whl","amt":"1"}
+*************************************************************************************
+TXT File :
+[whales.txt](https://github.com/splwhales/splwhales/files/13493436/whales.txt)
+*************************************************************************************
+SPL Whales supply
 10,000
 *************************************************************************************
 Ticker
@@ -31,6 +37,3 @@ Step 2 : Click 'Custom' button and upload a text file (which includes at bottom)
 Step 3 : Inscribe now. 
 *************************************************************************************
 
-Text File : 
-
-[Uploa{"p":"spl-20","op":"mint","tick":"whl","amt":"1"}ding whales.txt…]()
