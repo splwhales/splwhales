@@ -18,7 +18,7 @@ Generate Whale </br>
 How to Mint? </br>
 https://sol-tools.tonyboyle.io/nft-tools/create-nft </br>
 After connected your wallet </br>
-Name : SPL Whale #(The number you have been minted) </br>
+Name : SPL Whales#(The number you have been minted) </br>
 Symbol : WHL </br>
 ⚠️⚠️⚠️ Description : The hashcode after you generated from https://splwhales.vercel.app/  (You must type your hashcode to description so we can verify your ownership) ⚠️⚠️⚠️ </br>
 Royalty : 0 </br>
