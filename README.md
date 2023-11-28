@@ -33,7 +33,7 @@ Go https://www.libreplex.io/inscriptions </br>
 After connected your wallet click View your wallet </br>
 Find the whale you minted from the before and click Create Inscription </br>
 Step 1 : Click Initialise and approve it from your wallet </br>
-Step 2 : Click `Custom` button and upload a text file (which includes at bottom) which contains our ticker after everything set up click Resize. </br>
+Step 2 : Click `Custom` button and upload a text file (which includes at top of page) which contains our ticker after everything set up click Resize. </br>
 Step 3 : Inscribe now.  </br>
 ************************************************************************************* </br>
 
