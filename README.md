@@ -1,5 +1,5 @@
 Ticker </br>
-{"p":"spl-20","op":"mint","tick":"whl","amt":"1"} </br>
+`{"p":"spl-20","op":"mint","tick":"whl","amt":"1"}` </br>
 ************************************************************************************* </br>
 TXT File : </br>
 [whales.txt](https://github.com/splwhales/splwhales/files/13493436/whales.txt) </br>
@@ -8,7 +8,7 @@ SPL Whales supply </br>
 10,000 </br>
 ************************************************************************************* </br>
 Ticker </br> 
-{"p":"spl-20","op":"mint","tick":"whl","amt":"1"} </br>
+`{"p":"spl-20","op":"mint","tick":"whl","amt":"1"}` </br>
 ************************************************************************************* </br>
 How to Generate SPL Whale? </br>
 https://splwhales.vercel.app/ </br>
@@ -33,7 +33,7 @@ Go https://www.libreplex.io/inscriptions </br>
 After connected your wallet click View your wallet </br>
 Find the whale you minted from the before and click Create Inscription </br>
 Step 1 : Click Initialise and approve it from your wallet </br>
-Step 2 : Click 'Custom' button and upload a text file (which includes at bottom) which contains our ticker after everything set up click Resize. </br>
+Step 2 : Click `Custom` button and upload a text file (which includes at bottom) which contains our ticker after everything set up click Resize. </br>
 Step 3 : Inscribe now.  </br>
 ************************************************************************************* </br>
 
