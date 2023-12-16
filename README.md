@@ -22,7 +22,9 @@ Name : SPL Whales#(The number you have been minted) </br>
 Symbol : WHL </br>
 ⚠️⚠️⚠️ Description : The hashcode after you generated from https://splwhales.vercel.app/  (You must type your hashcode to description so we can verify your ownership) ⚠️⚠️⚠️ </br>
 Royalty : 0 </br>
-Advanced Settings --> isMutable : False </br>
+Advanced Settings --> isMutable : False (if errors, make it true)
+
+</br>
 
 ![mutable](https://github.com/splwhales/splwhales/assets/152276920/bdd645f4-70d1-4853-80ca-24c91ba9ca7b) </br>
 
