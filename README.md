@@ -10,10 +10,6 @@ SPL Whales supply </br>
 Ticker </br> 
 `{"p":"spl-20","op":"mint","tick":"whl","amt":"1"}` </br>
 ************************************************************************************* </br>
-How to Generate SPL Whale? </br>
-https://splwhales.vercel.app/ </br>
-Connnect your Phantom Wallet </br>
-Generate Whale </br>
 ************************************************************************************* </br>
 How to Mint? </br>
 https://sol-tools.tonyboyle.io/nft-tools/create-nft </br>
